@@ -195,15 +195,15 @@ _Uso de IA. O grupo usou o Claude para gerar uma primeira versão do código a p
 
 ### Evidências de autoria e coautoria
 
-_Cada integrante indica o que escreveu ou revisou, cita os IDs e descreve como conferiu. Cada pessoa cola a URL completa do seu commit._
+_Cada integrante indica o que escreveu ou revisou, cita os IDs e descreve como conferiu._
 
-| Integrante | Contribuição | Como conferiu | Commit |
-|---|---|---|---|
-| Maria Eduarda<br>@[usuário] | Redigiu usuário, problema e recorte. Escreveu RF05 a RF07 e RN07 a RN10. | Conferiu que o exemplo Joana Bezerra até Rua Imperial cabe no recorte e recalculou o limite de 60% do CA06. | [colar URL] |
-| Yasmin<br>@[usuário] | Escreveu os critérios CA01 a CA10. Revisou RN01 a RN12. | Ligou cada CA a um RF e uma RN e conferiu o caso de exceção do CA10. | [colar URL] |
-| José Elton<br>@[usuário] | Escreveu RF01, RF02 e os RNF. | Conferiu o formato das distâncias e os filtros do CA02. | [colar URL] |
-| João Pedro Barros<br>@[usuário] | Escreveu RF08, RN11 e RN12. Organizou o backlog. | Refez a conta da comissão do CA09 (R$ 4,55) e os tempos do CA07. | [colar URL] |
-| João Perrelli<br>@[usuário] | Escreveu RF03, RF04 e RN06. Revisou a seção 1. | Ligou o botão Abrir na Jet ao CA04 e à loja certa de cada celular. | [colar URL] |
+| Integrante | Contribuição | Como conferiu |
+|---|---|---|
+| Maria Eduarda<br>@[usuário] | Redigiu usuário, problema e recorte. Escreveu RF05 a RF07 e RN07 a RN10. | Conferiu que o exemplo Joana Bezerra até Rua Imperial cabe no recorte e recalculou o limite de 60% do CA06. |
+| Yasmin<br>@[usuário] | Escreveu os critérios CA01 a CA10. Revisou RN01 a RN12. | Ligou cada CA a um RF e uma RN e conferiu o caso de exceção do CA10. |
+| José Elton<br>@[usuário] | Escreveu RF01, RF02 e os RNF. | Conferiu o formato das distâncias e os filtros do CA02. |
+| João Pedro Barros<br>@[usuário] | Escreveu RF08, RN11 e RN12. Organizou o backlog. | Refez a conta da comissão do CA09 (R$ 4,55) e os tempos do CA07. |
+| João Perrelli<br>@[usuário] | Escreveu RF03, RF04 e RN06. Revisou a seção 1. | Ligou o botão Abrir na Jet ao CA04 e à loja certa de cada celular. |
 
 _Se duas pessoas usarem o mesmo commit, registramos a coautoria e o papel de cada uma._
 
