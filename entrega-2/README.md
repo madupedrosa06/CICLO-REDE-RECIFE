@@ -85,3 +85,5 @@ O prompt usado para gerar o código ("Prompt — MOVE RECIFE", anexo à atividad
 ## Registros de teste
 
 - [Testes de Maria Eduarda (T04 e T06)](testes/maria-eduarda.md)
+- [Testes de José Elton (T01 e T02)](testes/jose-elton.md)
+- [Teste de Yasmin Barbosa (T03)](testes/yasmin-barbosa.md)
