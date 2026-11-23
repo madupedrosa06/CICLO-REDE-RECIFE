@@ -28,7 +28,7 @@ Cada integrante escreveu uma parte e enviou no próprio commit.
 |---|---|---|
 | Identificação, visão geral, história de usuário e esclarecimentos | 1, 2, 9, 10 | Maria Eduarda (este arquivo) |
 | Requisitos funcionais e não funcionais | 3, 4 | José Elton ([02-requisitos.md](02-requisitos.md)) |
-| Regras de negócio e dados | 5 | Yasmin Barbosa ([03-regras-de-negocio.md](03-regras-de-negocio.md)) |
+| Regras de negócio e dados | 5 | Yasmim Barbosa ([03-regras-de-negocio.md](03-regras-de-negocio.md)) |
 | Critérios de aceitação | 6 | João Pedro Barros ([04-criterios-de-aceitacao.md](04-criterios-de-aceitacao.md)) |
 | Escopo da v0.1, tecnologia e backlog | 7, 8 | João Perrelli ([05-escopo-e-backlog.md](05-escopo-e-backlog.md)) |
 
