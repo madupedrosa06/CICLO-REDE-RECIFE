@@ -6,10 +6,10 @@ _Fundamentos de Programação • ADM Tech • Lente 3, Equipe Ciclo Rede Recife
 
 Documentação do MOVE RECIFE, um app que, a partir de uma estação com QR code, mostra os patinetes, as paradas próximas e o melhor caminho seguro na última milha no Recife.
 
-| Entrega | Conteúdo | Pasta |
-|---|---|---|
-| Entrega 1 | Definições e planejamento da v0.1: usuário, problema, requisitos, regras, critérios de aceitação, escopo e backlog | [entrega-1](entrega-1/README.md) |
-| Entrega 2 | O que entrou e o que ficou fora da v0.1, proposta da v0.2 e registro dos testes | [entrega-2](entrega-2/README.md) |
+| Entrega | Conteúdo | Pasta | Documento completo |
+|---|---|---|---|
+| Entrega 1 | Definições e planejamento da v0.1: usuário, problema, requisitos, regras, critérios de aceitação, escopo e backlog | [entrega-1](entrega-1/README.md) | [Entrega 1 completa](entrega-1/entrega-completa.md) |
+| Entrega 2 | O que entrou e o que ficou fora da v0.1, proposta da v0.2 e registro dos testes | [entrega-2](entrega-2/README.md) | [Entrega 2 completa](entrega-2/entrega-completa.md) |
 
 Cada integrante enviou a própria parte no seu commit, dentro da pasta da entrega.
 
