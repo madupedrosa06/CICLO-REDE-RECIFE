@@ -13,4 +13,12 @@ Documentação do MOVE RECIFE, um app que, a partir de uma estação com QR code
 
 Cada integrante enviou a própria parte no seu commit, dentro da pasta da entrega.
 
-**Integrantes.** Maria Eduarda, José Elton, Yasmin Barbosa, João Pedro Barros e João Perrelli.
+**Integrantes.**
+
+| Integrante | GitHub |
+|---|---|
+| Maria Eduarda | [@madupedrosa06](https://github.com/madupedrosa06) |
+| José Elton | [@Elton2007](https://github.com/Elton2007) |
+| Yasmin Barbosa | [@ybs2cesarschool](https://github.com/ybs2cesarschool) |
+| João Pedro Barros | [@JPBarros27](https://github.com/JPBarros27) |
+| João Perrelli | [@joaopptlc](https://github.com/joaopptlc) |
