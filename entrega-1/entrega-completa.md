@@ -204,7 +204,7 @@ _Cada integrante indica o que escreveu ou revisou, cita os IDs e descreve como c
 | José Elton<br>@Elton2007 | Escreveu RF01 a RF08 e RNF01 a RNF06 (seções 3 e 4). | Ligou cada RF a pelo menos uma RN e conferiu que cada RNF tem um jeito de ser verificado. | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/f71a407 |
 | Yasmin Barbosa<br>@ybs2cesarschool | Escreveu RN01 a RN12, as estações de referência e os parâmetros (seção 5). | Conferiu as vagas das estações com os dados do app e a origem de cada regra. | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/52243fd |
 | João Pedro Barros<br>@JPBarros27 | Escreveu os critérios CA01 a CA10 e a conferência do caso de limite (seção 6). | Refez à mão o limite de 60% do CA06, os tempos do CA07 e a comissão do CA09 (R$ 4,55). |   |
-| João Perrelli<br>@joaopptlc | Escreveu o escopo da v0.1, o fluxo principal, a tecnologia e o backlog (seções 7 e 8). | Conferiu que tudo que está no escopo tem um RF e que cada tarefa tem responsável e revisor. |   |
+| João Perrelli<br>@joaopptlc | Escreveu o escopo da v0.1, o fluxo principal, a tecnologia e o backlog (seções 7 e 8). | Conferiu que tudo que está no escopo tem um RF e que cada tarefa tem responsável e revisor. | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/94f15e5 |
 
 _Se duas pessoas usarem o mesmo commit, registramos a coautoria e o papel de cada uma._
 
