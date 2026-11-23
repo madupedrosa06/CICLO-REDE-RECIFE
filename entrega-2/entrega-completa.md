@@ -144,7 +144,7 @@ _Cada integrante envia no Classroom o link da sua contribuição à documentaç�
 | Integrante | Documentação | Implementação ou teste | Link do commit |
 |---|---|---|---|
 | Maria Eduarda<br>@madupedrosa06 | Introdução, seções 1 e 5. | Testes T04 e T06 (caminho seguro com e sem internet). | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/522f271 |
-| José Elton<br>@Elton2007 | Seção 2 (fora da v0.1). | Testes T01 e T02 (tela inicial, mapa e filtros). | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/1812386 |
-| Yasmin Barbosa<br>@ybs2cesarschool | Seção 3, regras RN13 a RN15. | Teste T03 (estação aberta pelo QR code). |   |
+| José Elton<br>@Elton2007 | Seção 2 (fora da v0.1). | Testes T01 e T02 (tela inicial, mapa e filtros). | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/1812386 (seção 2)<br>https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/e01a731 (testes T01 e T02) |
+| Yasmin Barbosa<br>@ybs2cesarschool | Seção 3, regras RN13 a RN15. | Teste T03 (estação aberta pelo QR code). | https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/ccaa569 (proposta)<br>https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/bd2adb9 (teste T03) |
 | João Pedro Barros<br>@JPBarros27 | Seção 3, critérios CA11 a CA15. | Teste T05 (limite de 60% e tempos). |   |
 | João Perrelli<br>@joaopptlc | Seções 4 e 6. | Testes T07 e T08 (painel e estação inexistente). |   |
