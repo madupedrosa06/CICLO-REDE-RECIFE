@@ -6,6 +6,8 @@ _Fundamentos de Programação • ADM Tech • Lente 3, Equipe Ciclo Rede Recife
 
 Documentação do MOVE RECIFE, um app que, a partir de uma estação com QR code, mostra os patinetes, as paradas próximas e o melhor caminho seguro na última milha no Recife.
 
+**App publicado (v0.1):** https://madupedrosa06.github.io/CICLO-REDE-RECIFE/ · código em [app](app/) · versão publicada em [docs](docs/)
+
 | Entrega | Conteúdo | Pasta | Documento completo |
 |---|---|---|---|
 | Entrega 1 | Definições e planejamento da v0.1: usuário, problema, requisitos, regras, critérios de aceitação, escopo e backlog | [entrega-1](entrega-1/README.md) | [Entrega 1 completa](entrega-1/entrega-completa.md) |

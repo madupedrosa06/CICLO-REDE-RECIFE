@@ -20,9 +20,9 @@ Esta entrega mostra o que entrou na v0.1 do MOVE RECIFE, o que ficou de fora e u
 
 **Repositório.** https://github.com/madupedrosa06/CICLO-REDE-RECIFE
 
-**Site.** [Informar o link publicado na Vercel ou no GitHub Pages]. Para rodar no computador: npm install e depois npm run dev.
+**Site.** https://madupedrosa06.github.io/CICLO-REDE-RECIFE/ (GitHub Pages). Código na pasta [app](https://github.com/madupedrosa06/CICLO-REDE-RECIFE/tree/main/app). Para rodar no computador: entrar em app/, npm install e depois npm run dev.
 
-**Versão no repositório.** [Informar a tag ou o hash da v0.1].
+**Versão no repositório.** commit [817ebb8](https://github.com/madupedrosa06/CICLO-REDE-RECIFE/commit/817ebb8).
 
 ## Partes desta entrega
 
