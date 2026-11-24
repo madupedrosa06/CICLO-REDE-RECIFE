@@ -1,0 +1,81 @@
+{
+  "_aviso": "Estações do Bike Itaú (Tembici) de exemplo, com posições aproximadas. A Tembici publica dados no padrão GBFS; trocar por esse feed quando houver acesso.",
+  "recife-antigo": [
+    {
+      "id": "bi-marco-zero",
+      "nome": "Bike Itaú Marco Zero",
+      "lat": -8.0622,
+      "lng": -34.8712,
+      "bikes": 7,
+      "vagas": 5
+    },
+    {
+      "id": "bi-arsenal",
+      "nome": "Bike Itaú Praça do Arsenal",
+      "lat": -8.06,
+      "lng": -34.8725,
+      "bikes": 4,
+      "vagas": 8
+    },
+    {
+      "id": "bi-alfandega",
+      "nome": "Bike Itaú Paço Alfândega",
+      "lat": -8.0648,
+      "lng": -34.8742,
+      "bikes": 6,
+      "vagas": 6
+    },
+    {
+      "id": "bi-estacao-central",
+      "nome": "Bike Itaú Estação Central",
+      "lat": -8.0672,
+      "lng": -34.8834,
+      "bikes": 3,
+      "vagas": 9
+    }
+  ],
+  "boa-viagem": [
+    {
+      "id": "bi-segundo-jardim",
+      "nome": "Bike Itaú Segundo Jardim",
+      "lat": -8.1163,
+      "lng": -34.8948,
+      "bikes": 8,
+      "vagas": 4
+    },
+    {
+      "id": "bi-pracinha",
+      "nome": "Bike Itaú Pracinha de Boa Viagem",
+      "lat": -8.1313,
+      "lng": -34.9008,
+      "bikes": 5,
+      "vagas": 7
+    },
+    {
+      "id": "bi-dona-lindu",
+      "nome": "Bike Itaú Parque Dona Lindu",
+      "lat": -8.1416,
+      "lng": -34.9037,
+      "bikes": 9,
+      "vagas": 3
+    },
+    {
+      "id": "bi-shopping",
+      "nome": "Bike Itaú Shopping Recife",
+      "lat": -8.118,
+      "lng": -34.9048,
+      "bikes": 2,
+      "vagas": 10
+    }
+  ],
+  "joana-bezerra": [
+    {
+      "id": "bi-joana-bezerra",
+      "nome": "Bike Itaú Joana Bezerra",
+      "lat": -8.0768,
+      "lng": -34.8966,
+      "bikes": 6,
+      "vagas": 6
+    }
+  ]
+}

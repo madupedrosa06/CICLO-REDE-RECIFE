@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/CICLO-REDE-RECIFE/sw.js', { scope: '/CICLO-REDE-RECIFE/' })})}

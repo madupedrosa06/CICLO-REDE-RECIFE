@@ -1,0 +1,25 @@
+{
+  "_como_funciona": "Cada trecho tem um peso. Menor que 1 deixa o caminho mais atrativo (ciclofaixa, iluminado, semáforo). Maior que 1 penaliza (trânsito pesado, sem calçada). Edite livremente. Dados de exemplo.",
+  "trechos": [
+    { "id": "ciclofaixa-rio-branco", "nome": "Ciclofaixa Av. Rio Branco", "tipo": "ciclofaixa", "peso": 0.6, "aviso": "Ciclofaixa na Av. Rio Branco", "pontos": [[-8.06310, -34.87110], [-8.06470, -34.87380], [-8.06620, -34.87560]] },
+    { "id": "ciclofaixa-bom-jesus", "nome": "Rua do Bom Jesus (rua calma)", "tipo": "iluminado", "peso": 0.8, "aviso": "Rua do Bom Jesus: rua calma e iluminada", "pontos": [[-8.06030, -34.87140], [-8.06175, -34.87165], [-8.06310, -34.87110]] },
+    { "id": "ponte-mauricio-nassau", "nome": "Ponte Maurício de Nassau", "tipo": "ciclofaixa", "peso": 0.7, "aviso": "Ponte Maurício de Nassau com faixa compartilhada", "pontos": [[-8.06470, -34.87380], [-8.06560, -34.87650], [-8.06630, -34.87870]] },
+    { "id": "perigoso-cais-santa-rita", "nome": "Cais de Santa Rita", "tipo": "perigoso", "peso": 1.8, "aviso": "Cais de Santa Rita: trânsito pesado, atenção", "pontos": [[-8.06900, -34.87750], [-8.07200, -34.88050], [-8.07450, -34.88400]] },
+
+    { "id": "ciclovia-boa-viagem", "nome": "Ciclofaixa Av. Boa Viagem", "tipo": "ciclovia", "peso": 0.55, "aviso": "Ciclofaixa da orla de Boa Viagem", "pontos": [[-8.11300, -34.89300], [-8.11720, -34.89460], [-8.12500, -34.89770], [-8.13160, -34.90070], [-8.14260, -34.90360]] },
+    { "id": "perigoso-domingos-ferreira", "nome": "Av. Domingos Ferreira", "tipo": "perigoso", "peso": 1.6, "aviso": "Av. Domingos Ferreira: corredor de ônibus, evite andar na faixa", "pontos": [[-8.11980, -34.90330], [-8.12650, -34.90250], [-8.13300, -34.90330]] },
+    { "id": "semaforo-padre-carapuceiro", "nome": "Travessia R. Padre Carapuceiro", "tipo": "semaforo", "peso": 0.8, "aviso": "Travessia com semáforo na Rua Padre Carapuceiro", "pontos": [[-8.11900, -34.90480], [-8.11950, -34.90380]] },
+
+    { "id": "perigoso-viaduto-jb", "nome": "Viaduto Joana Bezerra", "tipo": "perigoso", "peso": 2.0, "aviso": "Viaduto Joana Bezerra: trânsito rápido, sem acostamento", "pontos": [[-8.07790, -34.89630], [-8.07700, -34.89300], [-8.07600, -34.89000]] },
+    { "id": "iluminado-forum", "nome": "Entorno do Fórum (iluminado)", "tipo": "iluminado", "peso": 0.75, "aviso": "Entorno do Fórum: calçada larga e iluminada", "pontos": [[-8.07790, -34.89630], [-8.07510, -34.89520], [-8.07400, -34.89250]] },
+    { "id": "semaforo-imperial", "nome": "Travessia Rua Imperial", "tipo": "semaforo", "peso": 0.8, "aviso": "Travessia com semáforo na Rua Imperial", "pontos": [[-8.07400, -34.89250], [-8.07430, -34.89000], [-8.07450, -34.88800]] }
+  ],
+  "rotasReserva": [
+    {
+      "de": "joana-bezerra",
+      "para": "onibus-rua-imperial",
+      "curto": [[-8.07790, -34.89630], [-8.07700, -34.89300], [-8.07600, -34.89000], [-8.07450, -34.88800]],
+      "seguro": [[-8.07790, -34.89630], [-8.07510, -34.89520], [-8.07400, -34.89250], [-8.07430, -34.89000], [-8.07450, -34.88800]]
+    }
+  ]
+}

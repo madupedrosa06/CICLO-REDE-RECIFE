@@ -1,0 +1,5 @@
+[
+  { "id": "recife-antigo", "nome": "Recife Antigo", "centro": [-8.0645, -34.8765], "zoom": 15, "cor": "azul" },
+  { "id": "boa-viagem", "nome": "Boa Viagem", "centro": [-8.1285, -34.9010], "zoom": 14, "cor": "ocre" },
+  { "id": "joana-bezerra", "nome": "Joana Bezerra", "centro": [-8.0765, -34.8925], "zoom": 15, "cor": "agua" }
+]

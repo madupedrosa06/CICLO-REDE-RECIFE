@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html, body, #root { height: 100%; }
+body { @apply bg-creme text-tinta font-corpo antialiased; }
+
+/* Azulejo português em SVG (azul e branco), usado em faixas e fundos */
+.azulejo {
+  background-color: #F4F7FC;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' fill='%23F4F7FC'/%3E%3Cpath d='M24 4 L30 18 L44 24 L30 30 L24 44 L18 30 L4 24 L18 18 Z' fill='none' stroke='%232C5DA8' stroke-width='2'/%3E%3Ccircle cx='24' cy='24' r='5' fill='%232C5DA8'/%3E%3Cpath d='M0 0 Q8 8 0 16 M48 0 Q40 8 48 16 M0 48 Q8 40 0 32 M48 48 Q40 40 48 32' fill='none' stroke='%231F4E8C' stroke-width='2'/%3E%3Ccircle cx='0' cy='0' r='4' fill='%231F4E8C'/%3E%3Ccircle cx='48' cy='0' r='4' fill='%231F4E8C'/%3E%3Ccircle cx='0' cy='48' r='4' fill='%231F4E8C'/%3E%3Ccircle cx='48' cy='48' r='4' fill='%231F4E8C'/%3E%3C/svg%3E");
+  background-size: 48px 48px;
+}
+.faixa-azulejo { @apply azulejo; height: 14px; background-size: 14px 14px; }
+
+/* Cartão com borda que lembra moldura de azulejo */
+.cartao { @apply bg-white rounded-2xl shadow-sm; border: 2px solid #2C5DA8; box-shadow: 0 0 0 4px #F4F7FC, 0 0 0 6px #2C5DA822, 0 6px 18px #1E243014; }
+
+.botao { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 font-semibold min-h-[48px] transition active:scale-[.98] focus-visible:outline focus-visible:outline-4 focus-visible:outline-offset-2 focus-visible:outline-ocre; }
+.botao-azul { @apply botao bg-azul text-white hover:bg-azulejo; }
+.botao-claro { @apply botao bg-white text-azul border-2 border-azul hover:bg-[#EEF3FB]; }
+
+.chip { @apply inline-flex items-center gap-1.5 rounded-full px-3 min-h-[44px] text-sm font-semibold border-2 whitespace-nowrap; }
+
+.leaflet-container { font-family: Inter, system-ui, sans-serif; background: #E8E2D4; }
+.icone-mapa { background: transparent; border: none; }

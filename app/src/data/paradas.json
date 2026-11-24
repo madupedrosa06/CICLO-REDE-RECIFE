@@ -1,0 +1,20 @@
+[
+  { "id": "onibus-cais-apolo", "nome": "Parada Cais do Apolo", "tipo": "onibus", "lat": -8.06240, "lng": -34.87390, "linhas": ["031 Rio Doce/Dantas Barreto", "060 Barro/Recife Antigo"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-av-alfredo-lisboa", "nome": "Parada Av. Alfredo Lisboa", "tipo": "onibus", "lat": -8.06080, "lng": -34.86980, "linhas": ["Circular Recife Antigo"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-dantas-barreto", "nome": "Terminal Dantas Barreto", "tipo": "onibus", "lat": -8.06880, "lng": -34.87870, "linhas": ["Várias linhas do Centro"], "fonte": "Grande Recife Consórcio" },
+  { "id": "metro-recife", "nome": "Estação Recife (Central)", "tipo": "metro", "lat": -8.06850, "lng": -34.88370, "linhas": ["Linha Centro", "Linha Sul"], "fonte": "CBTU / Metrorec" },
+  { "id": "taxi-marco-zero", "nome": "Ponto de Táxi Marco Zero", "tipo": "taxi", "lat": -8.06350, "lng": -34.87170, "fonte": "CTTU" },
+
+  { "id": "onibus-dom-ferreira-1", "nome": "Parada Domingos Ferreira (Shopping)", "tipo": "onibus", "lat": -8.11980, "lng": -34.90330, "linhas": ["Corredor Domingos Ferreira", "042 Boa Viagem/Caxangá"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-dom-ferreira-2", "nome": "Parada Domingos Ferreira (Pracinha)", "tipo": "onibus", "lat": -8.12900, "lng": -34.90290, "linhas": ["Corredor Domingos Ferreira"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-conselheiro-aguiar", "nome": "Parada Conselheiro Aguiar", "tipo": "onibus", "lat": -8.12300, "lng": -34.89980, "linhas": ["071 Candeias/Conde da Boa Vista"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-av-boa-viagem", "nome": "Parada Av. Boa Viagem (Dona Lindu)", "tipo": "onibus", "lat": -8.14180, "lng": -34.90290, "linhas": ["Circular Boa Viagem"], "fonte": "Grande Recife Consórcio" },
+  { "id": "metro-aeroporto", "nome": "Estação Aeroporto (metrô)", "tipo": "metro", "lat": -8.13320, "lng": -34.91740, "linhas": ["Linha Sul"], "fonte": "CBTU / Metrorec" },
+  { "id": "taxi-shopping", "nome": "Ponto de Táxi Shopping Recife", "tipo": "taxi", "lat": -8.11870, "lng": -34.90550, "fonte": "CTTU" },
+  { "id": "taxi-pracinha", "nome": "Ponto de Táxi Pracinha", "tipo": "taxi", "lat": -8.13200, "lng": -34.90010, "fonte": "CTTU" },
+
+  { "id": "metro-joana-bezerra", "nome": "Estação Joana Bezerra (metrô)", "tipo": "metro", "lat": -8.07820, "lng": -34.89660, "linhas": ["Linha Centro", "Linha Sul"], "fonte": "CBTU / Metrorec" },
+  { "id": "onibus-rua-imperial", "nome": "Parada Rua Imperial (São José)", "tipo": "onibus", "lat": -8.07450, "lng": -34.88800, "linhas": ["Linhas para o Centro e Afogados"], "fonte": "Grande Recife Consórcio" },
+  { "id": "onibus-forum", "nome": "Parada Fórum Rodolfo Aureliano", "tipo": "onibus", "lat": -8.07510, "lng": -34.89520, "linhas": ["Linhas Joana Bezerra/Boa Viagem"], "fonte": "Grande Recife Consórcio" },
+  { "id": "taxi-joana-bezerra", "nome": "Ponto de Táxi Joana Bezerra", "tipo": "taxi", "lat": -8.07750, "lng": -34.89580, "fonte": "CTTU" }
+]

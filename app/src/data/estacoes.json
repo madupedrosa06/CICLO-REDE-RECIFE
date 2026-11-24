@@ -1,0 +1,15 @@
+[
+  { "id": "marco-zero", "nome": "Marco Zero", "area": "recife-antigo", "lat": -8.06310, "lng": -34.87110, "vagas": 12, "cor": "#D9A13B", "referencia": "Praça Rio Branco, em frente ao Marco Zero" },
+  { "id": "bom-jesus", "nome": "Rua do Bom Jesus", "area": "recife-antigo", "lat": -8.06175, "lng": -34.87165, "vagas": 10, "cor": "#D9707E", "referencia": "Entre a Sinagoga Kahal Zur Israel e a Rua da Moeda" },
+  { "id": "praca-do-arsenal", "nome": "Praça do Arsenal", "area": "recife-antigo", "lat": -8.06030, "lng": -34.87140, "vagas": 10, "cor": "#4FA3A0", "referencia": "Ao lado da Torre Malakoff" },
+  { "id": "cais-da-alfandega", "nome": "Cais da Alfândega", "area": "recife-antigo", "lat": -8.06500, "lng": -34.87400, "vagas": 14, "cor": "#2C5DA8", "referencia": "Calçadão do Paço Alfândega, beira do Capibaribe" },
+  { "id": "estacao-recife", "nome": "Estação Recife (metrô)", "area": "recife-antigo", "lat": -8.06830, "lng": -34.88330, "vagas": 16, "cor": "#B5532F", "referencia": "Saída da Estação Central do Metrô, Rua Floriano Peixoto" },
+
+  { "id": "segundo-jardim", "nome": "Segundo Jardim", "area": "boa-viagem", "lat": -8.11720, "lng": -34.89460, "vagas": 12, "cor": "#4FA3A0", "referencia": "Av. Boa Viagem, Segundo Jardim" },
+  { "id": "pracinha-boa-viagem", "nome": "Pracinha de Boa Viagem", "area": "boa-viagem", "lat": -8.13160, "lng": -34.90070, "vagas": 14, "cor": "#D9A13B", "referencia": "Praça de Boa Viagem, perto da Igreja" },
+  { "id": "parque-dona-lindu", "nome": "Parque Dona Lindu", "area": "boa-viagem", "lat": -8.14260, "lng": -34.90360, "vagas": 12, "cor": "#D9707E", "referencia": "Entrada do parque pela Av. Boa Viagem" },
+  { "id": "shopping-recife", "nome": "Shopping Recife", "area": "boa-viagem", "lat": -8.11900, "lng": -34.90480, "vagas": 16, "cor": "#2C5DA8", "referencia": "Rua Padre Carapuceiro, entrada principal" },
+  { "id": "domingos-ferreira", "nome": "Av. Domingos Ferreira", "area": "boa-viagem", "lat": -8.12650, "lng": -34.90250, "vagas": 10, "cor": "#B5532F", "referencia": "Corredor de ônibus da Domingos Ferreira" },
+
+  { "id": "joana-bezerra", "nome": "Estação Joana Bezerra", "area": "joana-bezerra", "lat": -8.07790, "lng": -34.89630, "vagas": 16, "cor": "#1F4E8C", "referencia": "Ao lado da Estação Joana Bezerra do metrô (Linhas Centro e Sul)" }
+]

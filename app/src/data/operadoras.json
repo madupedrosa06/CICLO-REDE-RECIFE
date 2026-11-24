@@ -1,0 +1,29 @@
+{
+  "_aviso": "Troque os links abaixo pelos deep links oficiais quando a Jet, a Whoosh e a Tembici (Bike Itaú) fornecerem. Os links de loja abrem a busca pelo app.",
+  "jet": {
+    "nome": "Jet",
+    "cor": "#7BC043",
+    "deepLink": "jet://scooters",
+    "android": "https://play.google.com/store/search?q=Jet%20patinete&c=apps",
+    "ios": "https://apps.apple.com/br/search?term=Jet%20patinete",
+    "site": "https://jetshr.com"
+  },
+  "whoosh": {
+    "nome": "Whoosh",
+    "cor": "#F2C200",
+    "deepLink": "whoosh://map",
+    "android": "https://play.google.com/store/search?q=Whoosh%20patinete&c=apps",
+    "ios": "https://apps.apple.com/br/search?term=Whoosh%20patinete",
+    "site": "https://whoosh.bike"
+  },
+  "bikeitau": {
+    "nome": "Bike Itaú",
+    "cor": "#EC7000",
+    "deepLink": "bikeitau://",
+    "android": "https://play.google.com/store/search?q=Bike%20Ita%C3%BA&c=apps",
+    "ios": "https://apps.apple.com/br/search?term=Bike%20Itau",
+    "site": "https://bikeitau.com.br"
+  },
+  "corridaMedia": 9.1,
+  "comissao": 0.1
+}

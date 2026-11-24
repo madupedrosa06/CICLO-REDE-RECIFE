@@ -1,0 +1,24 @@
+{
+  "_aviso": "Dados de exemplo. Jet e Whoosh não têm API pública garantida; trocar por API oficial quando houver.",
+  "recife-antigo": [
+    { "id": "j1", "operadora": "jet", "lat": -8.06330, "lng": -34.87140, "bateria": 82 },
+    { "id": "j2", "operadora": "jet", "lat": -8.06190, "lng": -34.87190, "bateria": 64 },
+    { "id": "w1", "operadora": "whoosh", "lat": -8.06290, "lng": -34.87080, "bateria": 91 },
+    { "id": "w2", "operadora": "whoosh", "lat": -8.06510, "lng": -34.87430, "bateria": 47 },
+    { "id": "j3", "operadora": "jet", "lat": -8.06050, "lng": -34.87160, "bateria": 75 },
+    { "id": "w3", "operadora": "whoosh", "lat": -8.06810, "lng": -34.88290, "bateria": 88 }
+  ],
+  "boa-viagem": [
+    { "id": "j4", "operadora": "jet", "lat": -8.11740, "lng": -34.89490, "bateria": 70 },
+    { "id": "w4", "operadora": "whoosh", "lat": -8.13140, "lng": -34.90050, "bateria": 95 },
+    { "id": "w5", "operadora": "whoosh", "lat": -8.14240, "lng": -34.90330, "bateria": 58 },
+    { "id": "j5", "operadora": "jet", "lat": -8.11920, "lng": -34.90450, "bateria": 81 },
+    { "id": "j6", "operadora": "jet", "lat": -8.12660, "lng": -34.90230, "bateria": 39 },
+    { "id": "w6", "operadora": "whoosh", "lat": -8.11880, "lng": -34.90510, "bateria": 77 }
+  ],
+  "joana-bezerra": [
+    { "id": "j7", "operadora": "jet", "lat": -8.07770, "lng": -34.89600, "bateria": 86 },
+    { "id": "w7", "operadora": "whoosh", "lat": -8.07800, "lng": -34.89670, "bateria": 72 },
+    { "id": "w8", "operadora": "whoosh", "lat": -8.07760, "lng": -34.89650, "bateria": 90 }
+  ]
+}
