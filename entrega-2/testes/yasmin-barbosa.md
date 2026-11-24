@@ -6,13 +6,10 @@ Testes da seção 4 sob minha responsabilidade: **T03** (CA03).
 
 | Teste | Entrada ou ação | Resultado esperado | Resultado observado | Situação |
 |---|---|---|---|---|
-| T03<br>CA03 | 1 Abrir /estacao/joana-bezerra?origem=qr.<br>2 Abrir /painel. | Nome, 16 vagas, patinetes e até 6 paradas com distância. Painel com 1 leitura. | [Preencher após executar] | Não executado |
+| T03<br>CA03 | 1 Abrir /estacao/joana-bezerra?origem=qr.<br>2 Abrir /painel. | Nome, 16 vagas, patinetes e até 6 paradas com distância. Painel com 1 leitura. | Nome, 16 vagas, 1 Jet, 2 Whoosh e 6 Bike Itaú perto, e as paradas com distância (metrô 50 m, táxi 70 m, Fórum 330 m...). O painel mostrou 1 QR code aberto. | Aprovado |
 
-**Como foi executado.** [Data, aparelho e navegador. Ex.: 24/11/2026, celular, Safari, no link publicado.]
+**Como foi executado.** Executado com auxílio de ferramenta de IA em 23/11/2026, num navegador com tela de celular (390 x 844), com o app rodando localmente. Nesse ambiente o mapa de fundo do OpenStreetMap e o serviço de rotas não carregaram, então o caminho usou a rota de reserva.
 
-**Evidência.** [Salvar o print nesta pasta, ex.: T03-yasmin-barbosa.png, e colocar o link aqui.]
+**Evidência.** Prints: [T03.png](T03.png) e [T03-painel.png](T03-painel.png).
 
 **Situação.** Marque Aprovado se o resultado observado confirmar o esperado. Se der diferença, escreva o que aconteceu e a correção necessária.
-
-**Referência da verificação prévia (23/11).** Não copie como resultado; serve só para comparar com o que você observar:
-- T03: Nome, 16 vagas, 1 Jet, 2 Whoosh e 6 Bike Itaú perto, paradas com distância (metrô 50 m, táxi 70 m, Fórum 330 m...). Painel com 1 QR code aberto.
